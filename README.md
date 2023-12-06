@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgithaiga&custom_title=Open%20Source%20Contributions&show_icons=true&theme=vue&hide=contribs)
+![Julius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jgithaiga&custom_title=Open%20Source%20Contributions&show_icons=true&theme=vue&hide=contribs)
+
+[![Julius's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgithaiga)](https://github.com/jgithaiga/github-readme-stats)
 
 <!--
 **jgithaiga/jgithaiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
