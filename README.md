@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Julius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jgithaiga&show_icons=true&hide=contribs&hide_rank=true)
+![Julius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jgithaiga&show_icons=true&hide=contribs)
 
-[![Julius's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgithaiga&hide_progress=true)
+[![Julius's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgithaiga&layout=donut)
 ](https://github.com/jgithaiga/github-readme-stats)
 
 <!--
