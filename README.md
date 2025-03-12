@@ -28,16 +28,9 @@
 
 <h3>📈 My Github Stats: </h3>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=jgithaiga&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-    </td>
-    <td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgithaiga&hide_border=true&layout=donut" align="left" style="width: 100%" />
-    </td>
-  </tr>
-</table>  
+<div style="width: 100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=jgithaiga&show_icons=true&count_private=true&hide_border=true" />
+</div>
 
 <!--
 **jgithaiga/jgithaiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
