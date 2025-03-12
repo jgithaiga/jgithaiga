@@ -1,11 +1,7 @@
-# Hi there 👋, I am Julius, a fullstack software developer.
-<!--
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jgithaiga&&style=flat-square" align="center"  height="30" width="200"  />
-</div>
--->
+<h1>Hi, I am Julius! 👋</h1>
 
-## ⚒️ My Skills Set:
+<h3>⚒️ My Skills Set:</h3>
+
 <div align="center">
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
   <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>
@@ -30,17 +26,18 @@
   <a href="https://www.ionicframework.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ionic.svg" alt="Ionic" height="50" /></a>
 </div>
 
+<h3>📈 My Github Stats: </h3>
 
-## 📈 My Github Stats: 
-<table><tr><td valign="top" width="50%">
-
+<table>
+  <tr>
+    <td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=jgithaiga&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
+    </td>
+    <td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgithaiga&hide_border=true&layout=donut" align="left" style="width: 100%" />
-
-</td></tr></table>  
+    </td>
+  </tr>
+</table>  
 
 <!--
 **jgithaiga/jgithaiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
