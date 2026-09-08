@@ -26,12 +26,6 @@
   <a href="https://www.ionicframework.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ionic.svg" alt="Ionic" height="50" /></a>
 </div>
 
-<h3>📈 My Github Stats: </h3>
-
-<div style="width: 100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=jgithaiga&show_icons=true&count_private=true&hide_border=true" />
-</div>
-
 <!--
 **jgithaiga/jgithaiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
